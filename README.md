@@ -1,6 +1,6 @@
 # 🏦 Bank Customer Churn Analysis – Power BI Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 Customer churn is a major concern in the banking industry, as retaining existing customers is more cost effective than acquiring new ones.
 This project focuses on analyzing bank customer churn patterns using Power BI, providing interactive insights into customer behavior, demographics, and financial 
@@ -114,6 +114,7 @@ Perform cohort and lifetime value analysis
 
 ## 👩‍💻 Author
 
-Asma
+Asma Sirkhot
 Data Science & Analytics Enthusiast
-LinkedIn:
+📍 Mumbai, India
+🔗 LinkedIn:https://www.linkedin.com/in/asma-sirkhot-85b841362
