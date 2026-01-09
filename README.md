@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Analysis – Power BI Dashboard
+# 🏦 Bank Customer Churn Analysis Power BI Dashboard
 
 ## 📌 Project Overview
 
@@ -6,8 +6,7 @@ Customer churn is a major concern in the banking industry, as retaining existing
 This project focuses on analyzing bank customer churn patterns using Power BI, providing interactive insights into customer behavior, demographics, and financial 
 attributes to support data driven retention strategies.
 
-### 📷 Dashboard Preview
-https://drive.google.com/file/d/1vIcc4hp5-cQFahUX20lG5mbduoVI1Pho/view?usp=drive_link
+![Screenshot](https://drive.google.com/uc?export=view&id=1vIcc4hp5-cQFahUX20lG5mbduoVI1Pho)
 
 ### 📁Dataset:
 👉 https://drive.google.com/file/d/12blWFdN0gKXvmG4reDmSlNlOj3RhK4MC/view?usp=drive_link
@@ -29,6 +28,17 @@ Identify key factors influencing customer churn
 Visualize churn trends across demographics, products, and regions
 
 Support business decisions with interactive dashboards
+
+## ▶️ How to Run This Project
+Install Power BI Desktop
+https://powerbi.microsoft.com/desktop/
+Download the cleaned dataset
+Open the .pbix file in Power BI Desktop
+If prompted:
+Go to Transform Data
+Update the dataset path
+Click Close & Apply
+Use slicers and visuals to explore the dashboard
 
 ## 📊 Key Metrics
 
@@ -66,8 +76,7 @@ Credit Score Groups
 
 Account Balance
 
-
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI
 
@@ -161,7 +170,7 @@ Long tenure customers demonstrate higher stability and loyalty
 
 Build predictive churn models using machine learning
 
-Integrate real-time customer data
+Integrate real time customer data
 
 Add customer feedback and satisfaction analysis
 
