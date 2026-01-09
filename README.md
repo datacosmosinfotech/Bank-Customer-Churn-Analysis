@@ -32,13 +32,21 @@ Support business decisions with interactive dashboards
 
 ## ▶️ How to Run This Project
 Install Power BI Desktop
+
 https://powerbi.microsoft.com/desktop/
+
 Download the cleaned dataset
+
 Open the .pbix file in Power BI Desktop
+
 If prompted:
+
 Go to Transform Data
+
 Update the dataset path
+
 Click Close & Apply
+
 Use slicers and visuals to explore the dashboard
 
 ## 📊 Key Metrics
