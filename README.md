@@ -6,7 +6,8 @@ Customer churn is a major concern in the banking industry, as retaining existing
 This project focuses on analyzing bank customer churn patterns using Power BI, providing interactive insights into customer behavior, demographics, and financial 
 attributes to support data driven retention strategies.
 
-
+## Dashboard Preview
+![Customer Churn Dashboard](https://raw.githubusercontent.com/datacosmosinfotech/Bank-Customer-Churn-Analysis/main/CustomerChurn%20Dashboard.png)
 
 ### 📁Dataset:
 👉 https://drive.google.com/file/d/12blWFdN0gKXvmG4reDmSlNlOj3RhK4MC/view?usp=drive_link
