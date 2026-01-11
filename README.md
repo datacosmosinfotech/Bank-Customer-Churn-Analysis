@@ -39,7 +39,7 @@ https://powerbi.microsoft.com/desktop/
 
 Download the cleaned dataset
 
-Open the .pbix file in Power BI Desktop
+Open the .pbit file in Power BI Desktop
 
 If prompted:
 
@@ -191,6 +191,9 @@ Perform cohort and lifetime value analysis
 ## 👩‍💻 Author
 
 Asma Sirkhot
-Data Science & Analytics Enthusiast
+
+Data Science & Analysis
+
 📍 Mumbai, India
-🔗 LinkedIn:https://www.linkedin.com/in/asma-sirkhot-85b841362
+
+🔗LinkedIn: https://www.linkedin.com/in/asma-sirkhot-85b841362/details/projects/
