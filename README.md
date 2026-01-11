@@ -7,7 +7,7 @@ This project focuses on analyzing bank customer churn patterns using Power BI, p
 attributes to support data driven retention strategies.
 
 ## Dashboard Preview
-![Customer Churn Dashboard](https://raw.githubusercontent.com/datacosmosinfotech/Bank-Customer-Churn-Analysis/main/CustomerChurn%20Dashboard.png)
+![Bank Customer Churn Dashboard Preview](https://raw.githubusercontent.com/datacosmosinfotech/Bank-Customer-Churn-Analysis/main/Customer%20Churn%20Dashboard%20SS.png)
 
 ### 📁Dataset:
 👉 https://drive.google.com/file/d/12blWFdN0gKXvmG4reDmSlNlOj3RhK4MC/view?usp=drive_link
