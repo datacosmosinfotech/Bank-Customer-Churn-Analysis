@@ -59,7 +59,7 @@ Customers Lost: 810
 
 Churn Rate: 19.27%
 
-🧩 Dashboard Features
+## 🧩 Dashboard Features
 
 Churn Status slicer (Churned / Not Churned)
 
