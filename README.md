@@ -101,71 +101,62 @@ Data Cleaning & Modeling
 
 Data Visualization
 
-## 📌 Insights & Findings
+## Key Business Insights
 
-### Customers by Gender
-Both male and female customers show comparable churn distribution
+1️⃣ Which customer characteristics dominate among churned customers?
+Answer:
 
-No extreme gender-based churn imbalance is observed
+Among churned customers (100% of this filtered view):
 
-📌 Insight: Gender alone is not a strong churn
+~69% are inactive
 
-### Customers by Activity Status
-Inactive customers have a noticeably higher churn proportion
+~56% are male
 
-Active customers demonstrate stronger retention
+~69% own a credit card
 
-📌 Insight: Customer engagement is a key factor in reducing churn.
+~40% belong to France
 
-### Customers by Number of Products
-Customers holding fewer products show higher churn
+Business Insight:
+Churn is concentrated among inactive customers, with clear demographic and regional patterns that can be proactively monitored in active customers.
 
-Multi-product customers are more likely to stay
+2️⃣ What percentage of churn is associated with customer inactivity?
+Answer:
 
-📌 Insight: Cross-selling products can improve customer loyalty.
+Approximately 69% of churned customers are inactive, while only 31% are active.
 
-### Credit Card Ownership
-Customers without credit cards churn more frequently
+Business Insight:
+Inactivity is the strongest churn indicator, making engagement initiatives critical for retention.
 
-Credit card ownership correlates with customer retention
+3️⃣ How is churn distributed across genders?
+Answer:
 
-📌 Insight: Credit card adoption strengthens customer-bank relationships.
+~56% of churned customers are male
 
-### Customers by Country
-Germany shows the highest churn contribution
+~44% are female
 
-France and Spain demonstrate relatively better retention
+Business Insight:
+Male customers show a slightly higher churn contribution, suggesting scope for targeted communication strategies.
 
-📌 Insight: Region-specific strategies are required to reduce churn.
+4️⃣ Does credit card ownership reduce churn?
+Answer:
 
-### Churn Rate by Age Group
-Middle-aged customers show higher churn
+~69% of churned customers own a credit card
 
-Younger and senior customers display lower churn levels
+~31% do not
+Business Insight:
+Credit card ownership alone does not guarantee loyalty; service experience and engagement are more influential.
 
-📌 Insight: Age-based personalized offers could reduce churn.
+5️⃣ Which regions contribute the highest percentage of churn?
+Answer:
 
-### Churn Rate by Credit Score Group
-Customers with lower credit scores exhibit higher churn
+France: ~40%
 
-Moderate credit score groups form the largest customer base
+Germany: ~30%
 
-📌 Insight: Financial risk and churn are closely linked.
+Spain: ~30%
 
-### Churn Rate by Account Balance
-
-Customers with higher account balances show increased churn risk
-
-Sudden exits of high-value customers pose financial loss
-
-📌 Insight: High-balance customers require proactive retention efforts.
-
-### Churn Rate by Tenure
-Newly acquired customers are more likely to churn
-
-Long tenure customers demonstrate higher stability and loyalty
-
-📌 Insight: Retention efforts should prioritize customers during the initial phase of their banking relationship.
+Business Insight:
+France contributes the largest share of churn, making it a priority region for targeted retention strategies.
 
 ## 💡 Business Recommendations
 
