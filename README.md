@@ -1,5 +1,9 @@
 # 🏦 Bank Customer Churn Analysis Power BI Dashboard
 
+## Problem Statement
+The bank is experiencing customer churn but lacks clear visibility into which customer segments are leaving and why,
+making it difficult to design effective retention strategies.
+
 ## 📌 Project Overview
 
 Customer churn is a major concern in the banking industry, as retaining existing customers is more cost effective than acquiring new ones.
